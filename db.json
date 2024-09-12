@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": "dec8",
+      "name": "Aubrey King"
+    },
+    {
+      "id": "410c",
+      "name": "Jane Schultz"
+    },
+    {
+      "id": "535a",
+      "name": "Juan Wiza-Baumbach"
+    }
+  ],
+  "albums": [
+    {
+      "id": "d1d3",
+      "userId": "dec8",
+      "title": "Last Day Of Summer"
+    },
+    {
+      "id": "3bdb",
+      "userId": "410c",
+      "title": "Cozy Tapes Vol. 2: Too Cozy"
+    },
+    {
+      "id": "53d9",
+      "userId": "535a",
+      "title": "Music Of The Sun"
+    }
+  ],
+  "photos": [
+    {
+      "id": "4f7d",
+      "albumId": "d1d3",
+      "url": "https://picsum.photos/seed/hGz4rf5LWs/941/3927?blur=7"
+    },
+    {
+      "id": "7753",
+      "albumId": "d1d3",
+      "url": "https://picsum.photos/seed/spcH2e/1714/1595?blur=6"
+    },
+    {
+      "id": "3497",
+      "albumId": "d1d3",
+      "url": "https://picsum.photos/seed/kh0dg0Y9/409/1454?grayscale&blur=6"
+    },
+    {
+      "id": "c374",
+      "albumId": "3bdb",
+      "url": "https://picsum.photos/seed/27DAegg/1655/1859?blur=7"
+    },
+    {
+      "id": "1e8b",
+      "albumId": "3bdb",
+      "url": "https://picsum.photos/seed/TDSdWby88/2495/3329?grayscale&blur=8"
+    },
+    {
+      "id": "d19c",
+      "albumId": "3bdb",
+      "url": "https://picsum.photos/seed/JvA6S1ShXu/3675/3969?blur=8"
+    },
+    {
+      "id": "1767",
+      "albumId": "53d9",
+      "url": "https://picsum.photos/seed/qrNwvAACZl/3441/157?blur=4"
+    },
+    {
+      "id": "d112",
+      "albumId": "53d9",
+      "url": "https://picsum.photos/seed/AHlapO/3358/3270?grayscale&blur=5"
+    },
+    {
+      "id": "0bdd",
+      "albumId": "53d9",
+      "url": "https://picsum.photos/seed/8sRLLpDk/1988/2413?grayscale&blur=7"
+    }
+  ]
+}
